@@ -137,7 +137,7 @@
         <profile>
             <id>latest</id>
             <properties>
-                <guava.version>15.0</guava.version>
+                <guava.version>19.0</guava.version>
                 <javassist.version>3.19.0-GA</javassist.version>
             </properties>
             <activation>
